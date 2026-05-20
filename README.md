@@ -1,6 +1,6 @@
 # Dashboard Dash
 
-Public Fox & Hen portfolio sample for **Data ops game demo**.
+A playable data-routing arcade game for clean rows, repairs, and quarantine decisions.
 
 ![Demo screenshot](docs/demo-screenshot.png)
 
@@ -9,18 +9,12 @@ Public Fox & Hen portfolio sample for **Data ops game demo**.
 - Demo: [https://foxhen-dashboard-dash.vercel.app](https://foxhen-dashboard-dash.vercel.app)
 - Repository: [https://github.com/foxandhenllc/foxhen-dashboard-dash](https://github.com/foxandhenllc/foxhen-dashboard-dash)
 
-## What This Demonstrates
+## Fully Working Behaviors
 
-- Makes spreadsheet/data cleanup work easy to understand.
-- Shows public-facing creativity without real data.
-- Interactive enough to be memorable in a proposal.
-
-## Interactions To Try
-
-- Click through the workflow stage cards.
-- Adjust the sprint-intensity range control.
-- Toggle scope, QA, handoff, and reuse checks to change the readiness score.
-- Review the handoff package and timeline sections.
+- Playable local state with scoring and success/failure conditions.
+- Keyboard or click controls documented in the interface.
+- Deterministic test hooks exposed as `window.render_game_to_text` and `window.advanceTime`.
+- No backend, auth, external service calls, production data, or customer work.
 
 ## Local Run
 
@@ -29,7 +23,3 @@ npm install
 npm run dev
 npm run build
 ```
-
-## Public-Safe Scope
-
-This is a static React/Vite demo with fictional sample data. It includes no production data, credentials, real contacts, or copied customer work. It is intended to show Fox & Hen's workflow, product judgment, and delivery style for fast fixed-scope service work.
