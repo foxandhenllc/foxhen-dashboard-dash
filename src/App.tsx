@@ -47,6 +47,7 @@ function App() {
     else if (state.routed >= 18) state.mode = "won";
     state.current = newRow(state.routed);
     state.current.y = 75;
+    sync();
   }
   function update(dt: number) {
     const state = stateRef.current;
