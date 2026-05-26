@@ -9,6 +9,10 @@ A playable data-routing arcade game for clean rows, repairs, and quarantine deci
 - Demo: [https://foxhen-dashboard-dash.vercel.app](https://foxhen-dashboard-dash.vercel.app)
 - Repository: [https://github.com/foxandhenllc/foxhen-dashboard-dash](https://github.com/foxandhenllc/foxhen-dashboard-dash)
 
+## Purpose
+
+Playable data-ops arcade game for routing clean, broken, duplicate, missing, bonus, shield, and corrupt rows.
+
 ## Fully Working Behaviors
 
 - Three-wave arcade run with simultaneous falling sample rows, escalating speed, combo scoring, quality loss, and win/loss conditions.
