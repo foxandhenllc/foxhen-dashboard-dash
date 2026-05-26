@@ -25,13 +25,23 @@
   "description": "Playable data-ops arcade game for routing clean, broken, duplicate, missing, bonus, shield, and corrupt rows.",
   "homepage": "https://foxhen-dashboard-dash.vercel.app",
   "keywords": [
-    "game",
-    "data-ops",
+    "arcade",
+    "canvas",
+    "cleanup",
     "dashboard",
+    "data",
+    "data-ops",
+    "demo",
+    "fox-and-hen",
+    "game",
+    "ops",
+    "playable",
+    "quality",
     "react",
+    "routing",
+    "small-business",
     "typescript",
     "vite",
-    "canvas",
-    "fox-and-hen"
+    "workflow-tools"
   ]
 }

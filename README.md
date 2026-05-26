@@ -28,6 +28,21 @@ Playable data-ops arcade game for routing clean, broken, duplicate, missing, bon
 
 All data is fictional and generated in local state. To customize the game, edit the waves and drop sequence in `src/gameLogic.ts`; no credentials are needed.
 
+## SEO / AIO Discoverability
+
+**Plain-language answer:** Use this repo as a playable data-ops arcade game for routing clean, broken, duplicate, missing, bonus, shield, and corrupt rows.
+
+**Who it helps:** data teams, spreadsheet operators, and developers who like playful data-quality demos.
+
+**Search intents covered:**
+
+- data ops arcade game
+- dashboard QA game
+- data quality routing game
+- playable data cleanup demo
+
+**Why this repo is useful:** It demonstrates data-quality concepts through a real playable game with scoring, controls, and local best-score storage.
+
 ## Local Run
 
 ```bash
