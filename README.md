@@ -6,7 +6,7 @@ A playable data-routing arcade game for clean rows, repairs, and quarantine deci
 
 ## Live Demo
 
-- Demo: [https://foxhen-dashboard-dash.vercel.app](https://foxhen-dashboard-dash.vercel.app)
+- Demo: [https://freetoolsforpeople.com/dashboard-dash](https://freetoolsforpeople.com/dashboard-dash)
 - Repository: [https://github.com/foxandhenllc/foxhen-dashboard-dash](https://github.com/foxandhenllc/foxhen-dashboard-dash)
 
 ## Purpose

@@ -8,7 +8,7 @@ export const sample = {
   "primaryAction": "Play dash",
   "secondaryAction": "Review rules",
   "repositoryUrl": "https://github.com/foxandhenllc/foxhen-dashboard-dash",
-  "liveDemoUrl": "https://foxhen-dashboard-dash.vercel.app",
+  "liveDemoUrl": "https://freetoolsforpeople.com/dashboard-dash",
   "theme": {
     "accent": "#275f5a",
     "accent2": "#ffd166",
