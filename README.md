@@ -1,5 +1,7 @@
 # Dashboard Dash
 
+[![Build](https://github.com/foxandhenllc/foxhen-dashboard-dash/actions/workflows/build.yml/badge.svg)](https://github.com/foxandhenllc/foxhen-dashboard-dash/actions/workflows/build.yml)
+
 A playable data-routing arcade game for clean rows, repairs, and quarantine decisions.
 
 ![Demo screenshot](docs/demo-screenshot.png)
@@ -43,6 +45,13 @@ All data is fictional and generated in local state. To customize the game, edit 
 
 **Why this repo is useful:** It demonstrates data-quality concepts through a real playable game with scoring, controls, and local best-score storage.
 
+## Open Source Readiness
+
+- MIT licensed for reuse, remixing, and client-safe adaptation.
+- GitHub Actions build workflow runs install, typecheck, tests when present, and production build.
+- Contribution guide, roadmap, and issue templates are included for public collaboration.
+- Public-safe data policy keeps examples fictional and reviewable.
+
 ## Local Run
 
 ```bash
@@ -50,3 +59,19 @@ npm install
 npm run dev
 npm run build
 ```
+
+## Validation
+
+```bash
+npm run typecheck --if-present
+npm run test --if-present
+npm run build --if-present
+```
+
+## Contributing
+
+See `CONTRIBUTING.md` for public-safe contribution rules, local validation commands, and good first contribution ideas. Roadmap items live in `ROADMAP.md`.
+
+## License
+
+MIT - see `LICENSE`.
